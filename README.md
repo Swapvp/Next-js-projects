@@ -11,18 +11,20 @@ To get started with any project in this repository, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/next-js-project.git
+   git clone https://github.com/Swapvp/Next-js-projects.git
 
 2 . **Install Dependencies**
 
 Navigate to the project directory and install the necessary dependencies:
 
+```bash
 cd <project-directory>
 npm install
+
 3. **Run the Project**
 
-
 After installation, run the project locally:
+```bash
 npm run dev
 
 Your Next.js project should now be running at http://localhost:3000.
